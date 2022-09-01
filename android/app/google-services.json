@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506587278975",
+    "project_id": "bmi-modern",
+    "storage_bucket": "bmi-modern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506587278975:android:b7f2f5216bf77fa6a3d94a",
+        "android_client_info": {
+          "package_name": "com.example.x2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506587278975-lvi3ihc7gljicbm83v9aspuavbjofftm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1MWJoOsv_sLM6xYSVNYkLEUe3E9afdQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506587278975-lvi3ihc7gljicbm83v9aspuavbjofftm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
